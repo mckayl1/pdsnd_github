@@ -1,14 +1,12 @@
 ### Date created
-Include the date you created this project and README file.
-
+11/16/2018
 ### Project Title
-Replace the Project Title
+Liam Mckay's bikeshare project
 
 ### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
+Thisproject takes bikeshare data and analyses it
+### ##Files used
+Inclbikeshare.py 
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
